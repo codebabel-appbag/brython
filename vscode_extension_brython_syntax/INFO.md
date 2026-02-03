@@ -14,13 +14,43 @@ inside html file by codeBabel for vscode.
 ## 🌐 Content / Conteúdo
 * [Installation](#installation)
 * [Change log](#changelog)
-* [Brython code](#brython)
-* [Brython site](#site)
-* [Brython syntax vscode](#vscode)
+* [brython code](#brython)
+* [brython site](#site)
 * [Screenshot](#screenshot)
 
 ### installation
 ## 💻 Installation / Instalação
+
+## 🧭 Minimum Requirements/Requisitos Mínimos.
+```
+{PTBR}
+Observação: será instalada a extensão Jinja (wholroyd.jinja)
+para que funcione corretamente.
+
+{FR}
+Remarque : L'extension Jinja (wholroyd.jinja)
+devra être installée pour que cela fonctionne correctement.
+
+{SP}
+Nota: Será necesario instalar la extensión Jinja (wholroyd.jinja)
+para que funcione correctamente.
+
+{ZH}
+注意：需要安装 Jinja 扩展程序 (wholroyd.jinja) 才能正常工作。
+
+{JA}
+注意: 正しく機能するには、Jinja 拡張機能 (wholroyd.jinja) をインストールする必要があります。
+
+{EN}
+Note: The Jinja extension (wholroyd.jinja)
+will need to be installed for it to function correctly.
+```
+## Manual Link: (wholroyd.jinja)
+
+[![](https://i.postimg.cc/HsN6zgbG/Who-Iroyd-Jinja.png)]()
+___
+[🔗 https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)
+___
 
 ~~~~
 {BR}
@@ -30,14 +60,6 @@ instale, crie um documento *.html usando brython.
 🐍 A extensão "codebabel-brython-syntax" desenvolvida para facilitar a
 codificação usando brython, ao criar o index.html, na tag script ao
 inserir código python a extensão fará o restante.
-
-{FR}
-🐍 Dans l'onglet Extensions, recherchez "cbbl" ou "codebabel-brython-syntax",
-installez-la, puis créez un document *.html avec Brython.
-🐍 Installation facile
-🐍 L'extension "codebabel-brython-syntax" est conçue pour simplifier la
-programmation avec Brython. Lors de la création du fichier index.html, insérez
-le code Python dans la balise script ; l'extension se charge du reste.
 
 {EN}
 🐍 In the extensions tab, search for "cbbl" or "codebabel-brython-syntax",
@@ -53,6 +75,7 @@ code into the script tag; the extension will handle the rest.
 |Version|       Version Name       | Upgrade Latency |
 |-------|--------------------------|-----------------|
 | 0.0.1 | codebabel-brython-syntax |    ON DEMAND    |
+| 0.0.2 | codebabel-brython-syntax | wholroyd.jinja  |
 
 ### brython
 ## 🐍 Brython code
@@ -103,10 +126,6 @@ ___
 ### site
 ## 🐍 brython site
 🔗 [https://brython.info/index.html](https://brython.info/index.html)
-
-### vscode
-## 🐍 Brython extension ( on microsoft marketplace )
-🔗 [https://marketplace.visualstudio.com/items?itemName=CodeBabel.codebabel-brython-syntax](https://marketplace.visualstudio.com/items?itemName=CodeBabel.codebabel-brython-syntax)
 
 ___
 ## 💜 Thank's 🧡
